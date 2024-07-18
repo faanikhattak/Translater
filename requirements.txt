@@ -1,1 +1,6 @@
-
+streamlit
+googletrans
+fitz  
+PyMuPDF
+io
+BytesIO
